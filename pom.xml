@@ -69,7 +69,7 @@
     <selenide.version>5.1.0</selenide.version>
     <slf4j.version>1.7.25</slf4j.version>
     <stripes.version>1.6.0</stripes.version>
-    <tomcat.version>8.5.37</tomcat.version>
+    <tomcat.version>9.0.98</tomcat.version>
     <wro4j.version>1.8.0</wro4j.version>
     <xmlrpc.version>2.0.1</xmlrpc.version>
 
@@ -752,7 +752,7 @@
                     <versionRange>[2.4.6,)</versionRange>
                     <goals><goal>compile</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -761,7 +761,7 @@
                     <versionRange>[1.3.2,)</versionRange>
                     <goals><goal>compress</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -770,7 +770,7 @@
                     <versionRange>[1.7,)</versionRange>
                     <goals><goal>run</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -779,7 +779,7 @@
                     <versionRange>[1.0.1,)</versionRange>
                     <goals><goal>jslint</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -788,7 +788,7 @@
                     <versionRange>[1.7.2,)</versionRange>
                     <goals><goal>run</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -797,7 +797,7 @@
                     <versionRange>[2.1,)</versionRange>
                     <goals><goal>unpack</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore /></action>
+                  <action><ignore/></action>
                 </pluginExecution>
               </pluginExecutions>
             </lifecycleMappingMetadata>
